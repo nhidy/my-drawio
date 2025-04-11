@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9" pages="4">
   <diagram name="Current" id="DMm66JICNg-b_BuIPjOW">
-    <mxGraphModel dx="5280" dy="2135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5280" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
           <mxGeometry x="-2220" y="39.25" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-92" value="Is the user in HO?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=O8K8_05I5hbr;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2220" y="-310" width="220" height="90" as="geometry" />
+          <mxGeometry x="-2220" y="-300" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-93" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=16;fontColor=#333333;fontStyle=1;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=1;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=0.002;exitPerimeter=0;lucidId=t-K8pr-iaynm;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VxaLEeJSrOtXhIWzbfS_-92" target="VxaLEeJSrOtXhIWzbfS_-200" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -163,7 +163,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-168" value="Registration Stock at Branch" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="-1940" y="-440" width="880" height="350" as="geometry">
+          <mxGeometry x="-1940" y="-420" width="880" height="330" as="geometry">
             <mxRectangle x="-1890" y="-500" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -171,38 +171,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-180" value="&lt;font&gt;Begin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-168" vertex="1">
-          <mxGeometry x="20" y="180" width="60" height="40" as="geometry" />
+          <mxGeometry x="20" y="160" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-169" value="DPT_SRG: Stock registration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=diL8n7n7nvlU;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-168" vertex="1">
-          <mxGeometry x="120" y="170" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="150" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-168" source="VxaLEeJSrOtXhIWzbfS_-171" target="VxaLEeJSrOtXhIWzbfS_-174" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-171" value="DPT_SAT: Stock assign to Staff" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=siL8XiZfh94J;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-168" vertex="1">
-          <mxGeometry x="321" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="321" y="150" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-168" source="VxaLEeJSrOtXhIWzbfS_-173" target="VxaLEeJSrOtXhIWzbfS_-210" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-173" value="DPT_CCR: Stock confirm received" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=GpL8sMLPmteC;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-168" vertex="1">
-          <mxGeometry x="561" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="561" y="150" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VxaLEeJSrOtXhIWzbfS_-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-168" source="VxaLEeJSrOtXhIWzbfS_-177" edge="1">
+        <mxCell id="VxaLEeJSrOtXhIWzbfS_-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-168" source="VxaLEeJSrOtXhIWzbfS_-177" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="200" as="targetPoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-177" value="DPT_CRT: 11833: Stock returned" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=5BL8WdrcK.6P;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-168" vertex="1">
-          <mxGeometry x="561" y="70" width="200" height="60" as="geometry" />
+          <mxGeometry x="561" y="50" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-168" source="VxaLEeJSrOtXhIWzbfS_-174" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="200" as="targetPoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-174" value="DPT_SRA: 11835: Reject assigned stock" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=LBL8hcJfMu7N;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-168" vertex="1">
-          <mxGeometry x="321" y="270" width="200" height="60" as="geometry" />
+          <mxGeometry x="321" y="250" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-170" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=16;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=1;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.004;exitY=0.5;exitPerimeter=0;entryX=-0.004;entryY=0.5;entryPerimeter=0;lucidId=siL8WX6Wz.jX;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-168" source="VxaLEeJSrOtXhIWzbfS_-169" target="VxaLEeJSrOtXhIWzbfS_-171" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -220,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-210" value="&lt;font&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-168" vertex="1">
-          <mxGeometry x="800" y="180" width="60" height="40" as="geometry" />
+          <mxGeometry x="800" y="160" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J-XIWrtoKLZFgz8fOZKb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VxaLEeJSrOtXhIWzbfS_-200" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-200" value="Registration Stock at HO" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="-1940" y="-840" width="1360" height="370" as="geometry">
+          <mxGeometry x="-1940" y="-780" width="1360" height="330" as="geometry">
             <mxRectangle x="-1890" y="-980" width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-97" value="DPT_SAB: 11831: Stock assigned to branch" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=E-K8VwSi.VNv;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="320" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="320" y="149.91" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-98" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=16;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.004;exitY=0.5;exitPerimeter=0;entryX=-0.004;entryY=0.5;entryPerimeter=0;lucidId=B_K8auC.OmKs;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-97" target="VxaLEeJSrOtXhIWzbfS_-99" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -250,20 +250,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-99" value="DPT_CCR: Stock confirm received (branch confirm)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=B_K8KtoC-B.U;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="560" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="560" y="149.91" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-100" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=16;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=0;entryY=0.5;lucidId=f.K8d7xa3UE9;labelBackgroundColor=none;entryDx=0;entryDy=0;" parent="VxaLEeJSrOtXhIWzbfS_-200" target="VxaLEeJSrOtXhIWzbfS_-101" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="760" y="200.09" as="sourcePoint" />
-            <mxPoint x="833.4380000000001" y="199.89" as="targetPoint" />
+            <mxPoint x="760" y="180" as="sourcePoint" />
+            <mxPoint x="833.4380000000001" y="179.79999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J-XIWrtoKLZFgz8fOZKb-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-101" target="VxaLEeJSrOtXhIWzbfS_-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-101" value="DPT_SAT: Stock assign to Staff" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=f.K8ricRqGn2;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="800" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="800" y="149.91" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-103" target="VxaLEeJSrOtXhIWzbfS_-212" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-103" value="DPT_CCR: Stock confirm received (teller confirm)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=t.K89AFciOv3;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="1040" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="1040" y="149.91" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-104" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=16;strokeColor=#FF0000;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=8 8;strokeWidth=1;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.008;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;lucidId=7~K8s93Qj5ms;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-97" target="VxaLEeJSrOtXhIWzbfS_-111" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -286,47 +286,47 @@
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-111" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="200.09" as="targetPoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-111" value="DPT_SRA: 11835: Reject assigned stock" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=7~K8_bC7LJLh;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="320" y="270" width="200" height="60" as="geometry" />
+          <mxGeometry x="320" y="249.91" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VxaLEeJSrOtXhIWzbfS_-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-112" edge="1">
+        <mxCell id="VxaLEeJSrOtXhIWzbfS_-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-112" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="200.09" as="targetPoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-112" value="DPT_CRT: 11833: Stock returned" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=3bL8yir.PB5-;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="560" y="70.09" width="200" height="60" as="geometry" />
+          <mxGeometry x="560" y="50.00000000000001" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-113" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="200" as="targetPoint" />
+            <mxPoint x="780" y="179.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-113" value="DPT_CRT: 11833: Stock returned" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=1;lucidId=ueL8av5Dy-su;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="1040" y="70.09" width="200" height="60" as="geometry" />
+          <mxGeometry x="1040" y="50.00000000000001" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VxaLEeJSrOtXhIWzbfS_-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-123" edge="1">
+        <mxCell id="VxaLEeJSrOtXhIWzbfS_-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-123" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="200" as="targetPoint" />
+            <mxPoint x="780" y="179.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-123" value="DPT_SRA: 11835: Reject assigned stock" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=SdL8HdBOTPbP;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="800" y="270" width="200" height="60" as="geometry" />
+          <mxGeometry x="800" y="249.91" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-95" value="DPT_SRG: Stock registration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1;lucidId=t-K8BA6zqQXJ;labelBackgroundColor=none;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="120" y="170" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="149.91" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-204" target="VxaLEeJSrOtXhIWzbfS_-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-204" value="&lt;font&gt;Begin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="20" y="180.09" width="60" height="40" as="geometry" />
+          <mxGeometry x="20" y="160" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-212" value="&lt;font&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="VxaLEeJSrOtXhIWzbfS_-200" vertex="1">
-          <mxGeometry x="1280" y="180" width="60" height="40" as="geometry" />
+          <mxGeometry x="1280" y="159.91" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VxaLEeJSrOtXhIWzbfS_-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" parent="VxaLEeJSrOtXhIWzbfS_-200" source="VxaLEeJSrOtXhIWzbfS_-99" target="VxaLEeJSrOtXhIWzbfS_-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1286,7 +1286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Prepaid Fixed Deposit" id="oEYn6fft6V9qbhGt0UYP">
-    <mxGraphModel dx="5385" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5980" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-0" />
         <mxCell id="N-tYSe1HWCWy47rX5IO_-1" parent="N-tYSe1HWCWy47rX5IO_-0" />
@@ -1330,6 +1330,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fXlCyerXQ3YoVpMWRxw8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N-tYSe1HWCWy47rX5IO_-1" source="N-tYSe1HWCWy47rX5IO_-14" target="fXlCyerXQ3YoVpMWRxw8-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_2y3pcNKkUR3QV2JYGf-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="N-tYSe1HWCWy47rX5IO_-1" source="N-tYSe1HWCWy47rX5IO_-14" target="N-tYSe1HWCWy47rX5IO_-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-14" value="DPT_CER: 11803: Fixed deposit receipt issued" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=A4K8zdcVxU0g;labelBackgroundColor=none;" vertex="1" parent="N-tYSe1HWCWy47rX5IO_-1">
@@ -1636,7 +1639,7 @@
           <mxGeometry x="20" y="370" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-88" value="Other passbook transactions" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=30;" vertex="1" parent="N-tYSe1HWCWy47rX5IO_-1">
-          <mxGeometry x="-1680" y="730" width="440" height="110" as="geometry" />
+          <mxGeometry x="-1680" y="590" width="440" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N-tYSe1HWCWy47rX5IO_-88">
           <mxGeometry relative="1" as="geometry">
@@ -1655,7 +1658,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-93" value="Close &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;transactions&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;fontSize=16;" vertex="1" parent="N-tYSe1HWCWy47rX5IO_-1">
-          <mxGeometry x="-1680" y="870" width="440" height="230" as="geometry" />
+          <mxGeometry x="-1680" y="730" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-94" value="DPT_CLS: Close deposit account" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="N-tYSe1HWCWy47rX5IO_-93">
           <mxGeometry x="20" y="50" width="400" height="40" as="geometry" />
@@ -1667,7 +1670,7 @@
           <mxGeometry x="20" y="170" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-97" value="&lt;font&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="N-tYSe1HWCWy47rX5IO_-1">
-          <mxGeometry x="-1200" y="965" width="60" height="40" as="geometry" />
+          <mxGeometry x="-1200" y="825" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-tYSe1HWCWy47rX5IO_-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.009;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="N-tYSe1HWCWy47rX5IO_-1" source="N-tYSe1HWCWy47rX5IO_-2" target="N-tYSe1HWCWy47rX5IO_-5">
           <mxGeometry relative="1" as="geometry">
